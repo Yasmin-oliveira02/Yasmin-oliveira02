@@ -1,16 +1,15 @@
-## Hi there 👋
+## olá 👋
 
-<!--
-**Yasmin-oliveira02/Yasmin-oliveira02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### MEU NOME É YASMIN OLIVEIRA DA SILVA 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ESTOU ESTUDANDO NA ALURA 
+
+### VOCÊ PODE ENTRAR EM CONTATO COMIGO 📫
+
+00001110813946SP@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/CzaHhPyIR8gAAAAC/rosy00.gif)
+
+
+
